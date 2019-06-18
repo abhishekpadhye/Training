@@ -9,3 +9,6 @@ change number 5
 change no 6
 chang 2.1
 change 2.2
+rebase demo 2
+rebase demo 4
+rebase demo 5
